@@ -7,3 +7,4 @@ else if ( (typeof(+value) == "number") && (!isNaN(+value)) && ((+value) % 2 === 
   console.log("Число нечетное")
 else
   console.log("Упс, кажется, вы ошиблись");
+  
